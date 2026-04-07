@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ilhan_quiz4_dotnet/1.0.0": {
+        "runtime": {
+          "ilhan_quiz4_dotnet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ilhan_quiz4_dotnet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
